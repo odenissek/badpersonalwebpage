@@ -1,0 +1,72 @@
+	* {
+	font-family: 'serif';
+	text-decoration: none;
+	background-color: #f28123;
+}
+
+header {
+	text-shadow: 2px 2px 4px black;
+	border-bottom: 37px double #8E3227;
+	position: static;
+}
+
+#logo {
+	font-size: 69px;
+	display: inline-block;
+	letter-spacing: 9px;
+	color: #F7BBAF;
+}
+
+.topnav {
+	float: left;
+	height: 100%;
+	width: 200px;
+	padding: 20px;
+}
+
+.topnav a {
+	background-color: #f7f052;
+	color: #d34e24;
+	padding: 23px;
+	text-decoration: none;
+	font-size: 19px;
+	display: block;
+}
+
+.topnav a:hover {
+	background-color: forestgreen;
+	color: deepskyblue;
+}
+
+#img {
+	float: left;
+	padding: 50px;
+	border-style: 3px dotted forestgreen;
+}
+
+form {
+	float: left;
+	padding: 130px;
+}
+
+input {
+	;
+}
+
+.btn {
+	float: right;
+	padding: 300px;
+}
+
+.CV {
+	vertical-align: middle;
+	color: #F7BBAF;
+}
+
+#intro {
+	text-align: left;
+}
+
+#etc {
+	text-align: right;
+}
