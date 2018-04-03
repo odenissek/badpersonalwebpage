@@ -47,10 +47,13 @@ header {
 form {
 	float: left;
 	padding: 130px;
+	text-align: left;
+	color: #8E3227;
+	
 }
 
 input {
-	;
+	color: deepskyblue;
 }
 
 .btn {
@@ -61,6 +64,7 @@ input {
 .CV {
 	vertical-align: middle;
 	color: #F7BBAF;
+	
 }
 
 #intro {
